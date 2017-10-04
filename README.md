@@ -59,7 +59,7 @@ frame rate is set to 10 frames per second.
 
 ## p5jsws281x
 
-![RGB LED follow mouse](./images/p5jsws821x.gif)
+![RGB LED follow mouse](./images/p5jsws281x.gif)
 
 p5jsws281x displays a circle 5 LEDs in diameter. The circle follows the pointer
 (mouse cursor or finger). The color changes randomly on mouse click and screen
